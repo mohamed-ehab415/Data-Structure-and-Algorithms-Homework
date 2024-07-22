@@ -1,0 +1,56 @@
+
+
+train RMSE = 0.4329 - R2 = 0.7094
+test RMSE = 0.5193 - R2 = 0.6149
+
+train RMSE = 0.4334 - R2 = 0.7087
+test RMSE = 0.5105 - R2 = 0.6278
+
+train RMSE = 0.4335 - R2 = 0.7086
+test RMSE = 0.5123 - R2 = 0.6252
+
+train RMSE = 0.4334 - R2 = 0.7087
+test RMSE = 0.5105 - R2 = 0.6278
+
+train RMSE = 0.4335 - R2 = 0.7086
+test RMSE = 0.5102 - R2 = 0.6283
+
+train RMSE = 0.4337 - R2 = 0.7083
+test RMSE = 0.5095 - R2 = 0.6294
+
+train RMSE = 0.4329 - R2 = 0.7093
+test RMSE = 0.5124 - R2 = 0.6250
+
+train RMSE = 0.4341 - R2 = 0.7078
+test RMSE = 0.5048 - R2 = 0.6361
+
+train RMSE = 0.4345 - R2 = 0.7073
+test RMSE = 0.5064 - R2 = 0.6338
+
+
+train RMSE = 0.4341 - R2 = 0.7078
+test RMSE = 0.5048 - R2 = 0.6361
+
+for big 
+
+
+train RMSE = 0.4527 - R2 = 0.6785
+test RMSE = 0.4621 - R2 = 0.6697
+
+train RMSE = 0.4526 - R2 = 0.6786
+test RMSE = 0.4822 - R2 = 0.6404
+
+train RMSE = 0.4525 - R2 = 0.6788
+test RMSE = 0.4660 - R2 = 0.6641
+
+train RMSE = 0.4527 - R2 = 0.6785
+test RMSE = 0.4618 - R2 = 0.6702
+
+train RMSE = 0.4529 - R2 = 0.6782
+test RMSE = 0.4588 - R2 = 0.6744
+
+train RMSE = 0.4529 - R2 = 0.6782
+test RMSE = 0.4589 - R2 = 0.6743
+
+train RMSE = 0.4528 - R2 = 0.6784
+test RMSE = 0.4590 - R2 = 0.6741
